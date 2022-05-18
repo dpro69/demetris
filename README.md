@@ -1,3 +1,1 @@
-# demetri
-**nicosia**
-*cyprus*
+#Example of README.md
